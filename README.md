@@ -2,7 +2,7 @@
 A beginner-oriented template for a static website hosted by github pages.  
 The template uses Jekyll.
 
-Live demo of the sort of thing you can do is here: maclockard.com
+Live demo of the sort of thing you can do is here: www.maclockard.com
 
 ## Front Matter
 * Download Sublime Text
