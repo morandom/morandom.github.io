@@ -26,6 +26,8 @@ find a template you think is really cool and use that, or start completly from s
 
 A blank canvas version of this template exists on the branch `config/raw`
 
+A nice minimalistic blogging template is on the branch `config/hyde`
+
 A more complex and pretty cool theme can be found on the branch `config/spectral`
 
 ## How to Preview Changes Locally
