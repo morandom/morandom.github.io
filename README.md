@@ -2,7 +2,7 @@
 A beginner-oriented template for a static website hosted by github pages.  
 The template uses Jekyll.
 
-Live demo can be found here: [https://github.com/maclockard/portfolio-site-template]
+Live demo of the sort of thing you can do is here: maclockard.com
 
 ## Front Matter
 * Download Sublime Text
@@ -27,7 +27,7 @@ find a template you think is really cool and use that, or start completly from s
 A blank canvas version of this template exists on the branch `config/raw`
 
 **Disclaimer**  
-I'm not sure how easy these following templates are
+I'm not sure how easy these following templates are to change
 
 A nice minimalistic blogging template is on the branch `config/hyde`
 
