@@ -24,6 +24,8 @@ Live demo can be found here: [https://github.com/maclockard/portfolio-site-templ
 You can make some small modifications to the site by changing the files here,
 find a template you think is really cool and use that, or start completly from scratch!
 
+A blank canvas version of this template exists on the branch `config/raw`
+
 ## How to Preview Changes Locally
 * Open terminal
 * Run the following commands inside of the `portfolio-site/` directory
